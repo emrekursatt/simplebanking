@@ -2,7 +2,6 @@ package com.eteration.simplebanking.model;
 
 
 import com.eteration.simplebanking.exception.InsufficientBalanceException;
-import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 import javax.persistence.*;
