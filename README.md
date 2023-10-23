@@ -94,5 +94,6 @@ To perform an insert operation, use the following JSON data as an example:
     account_numer = 0123
 </pre>
 
-
+## Method added to ModelTest class
+<pre>testAccountTransactions</pre> 
     
